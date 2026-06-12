@@ -1,0 +1,79 @@
+🚨 ALERTE & PROTECTION IMMÉDIATE (8 features)
+Table
+#	Fonctionnalité	Source réelle 2026	Faisable HTML ?
+1	Bouton alerte 1 clic → WhatsApp + email + géoloc	App-Elles, Help Me	✅ Oui
+2	Alerte silencieuse (géoloc sans son)	App-Elles	✅ Oui
+3	Enregistrement audio auto 30-120s	App-Elles, Help Me	✅ Oui
+4	Enregistrement vidéo caméra avant/arrière	Help Me (juin 2026)	✅ Oui (getUserMedia)
+5	Cercle de confiance (position temps réel)	Help Me	✅ Oui (géoloc + lien)
+6	Compte à rebours 10s (annuler si fausse alerte)	Innovation	✅ Oui
+7	Check-in quotidien (pas de check-in → alerte auto)	Innovation	✅ Oui (localStorage)
+8	Alerte par secousse (shake téléphone)	Innovation	✅ Oui (devicemotion)
+📍 CARTOGRAPHIE & SAFE PLACES (6 features)
+Table
+#	Fonctionnalité	Source réelle 2026	Faisable HTML ?
+9	Carte interactive 6 500 safe places	UMAY	✅ Oui (Leaflet/OpenStreetMap)
+10	Repérage des lieux à risques	Help Me	✅ Oui (OpenStreetMap)
+11	Plus proche commissariat/gendarmerie	UMAY	✅ Oui (Overpass API)
+12	Itinéraire sécurisé (éviter les zones à risque)	Innovation	✅ Oui
+13	Plus proche association d'aide	83 FNSF, 98 CIDFF	✅ Oui
+14	Safe places participatives	Help Me	✅ Oui (formulaire + carte)
+🤖 IA & CHATBOT (7 features)
+Table
+#	Fonctionnalité	Source réelle 2026	Faisable HTML ?
+15	Chatbot IA 24/7 guide victime	Sophia (global)	✅ Oui (Mistral API)
+16	IA prédiction danger (évolution risque)	ISEDA (Europe)	✅ Oui (Mistral)
+17	IA détection contradictions	LEXIS (France)	✅ Oui (déjà présent)
+18	Simulateur entretien police	ISEDA (Europe)	✅ Oui (Mistral)
+19	IA traduction 200+ langues	FNSF 200+ langues	✅ Oui (Mistral)
+20	Transcription audio Whisper	OpenAI Whisper	✅ Oui (API)
+21	IA génération deepfake detector	UN Women 2026	✅ Oui (pixtral vision)
+📋 JURIDIQUE & ADMINISTRATIF (12 features)
+Table
+#	Fonctionnalité	Source réelle 2026	Faisable HTML ?
+22	Ordonnance de protection JAF	Justice.gouv.fr	✅ Oui (déjà présent)
+23	OPPI — Ordonnance Provisoire Immédiate 24h	Loi 13 juin 2024	✅ Oui
+24	Art. 40 CPP Signalement Procureur	Déjà présent	✅ Oui
+25	Main courante	Déjà présent	✅ Oui
+26	Demande TGD (Téléphone Grave Danger)	5 600+ attribués	✅ Oui
+27	Demande BAR (Bracelet Anti-Rapprochement)	641 actifs	✅ Oui
+28	Calculateur d'aides (urgence, RSA, logement)	Service-Public	✅ Oui
+29	Guide post-séparation	Innovation	✅ Oui
+30	Simulateur garde alternée	Innovation	✅ Oui
+31	Contrat parental sécurisé	Ti3rs inspiration	✅ Oui
+32	Demande aide universelle urgence	Service-Public 2026	✅ Oui
+33	Guide "suicide forcé" reconnu	Loi Couillard 2020	✅ Oui
+📱 CYBERVIOLENCES & SÉCURITÉ NUMÉRIQUE (8 features)
+Table
+#	Fonctionnalité	Source réelle 2026	Faisable HTML ?
+34	Guide 6 cyberviolences	Gouvernement 2026	✅ Oui
+35	Test "Mon téléphone est-il espionné ?"	Tech Safety Forum	✅ Oui
+36	Test sécurité numérique globale	Innovation	✅ Oui
+37	Guide smart home sécurisée	Tech Safety Forum	✅ Oui
+38	Filtre à messages malveillants	Ti3rs (France)	✅ Oui (Mistral)
+39	StopNCII — Protection images intimes	StopNCII (global)	✅ Oui (hash local)
+40	Détection deepfake "military level"	UN Women 2026	✅ Oui (pixtral)
+41	Stéganographie (cacher preuves dans image)	Innovation	✅ Oui (canvas)
+📝 JOURNAL & PREUVES (6 features)
+Table
+#	Fonctionnalité	Source réelle 2026	Faisable HTML ?
+42	Journal de vie quotidien	Mémo de Vie	✅ Oui
+43	Horodatage blockchain	Innovation	✅ Oui (timestamp server)
+44	Coffre-fort digital preuves	Mémo de Vie	✅ Oui (chiffrement local)
+45	Chronologie événements	Déjà présent	✅ Oui
+46	Export dossier complet	Mémo de Vie	✅ Oui (PDF/TXT)
+🌍 VIRAL & COMMUNAUTAIRE (5 features)
+Table
+#	Fonctionnalité	Source réelle 2026	Faisable HTML ?
+47	Mur de femmages digital	NousToutes	✅ Oui
+48	Mur communautaire (conseils, témoignages)	Help Me	⚠️ Nécessite backend
+49	Campagne sensibilisation générée IA	ISEDA	✅ Oui
+50	Mode discret / Faux site	Innovation	✅ Oui
+51	QR code personnel urgence	Innovation	✅ Oui
+♿ ACCESSIBILITÉ & INCLUSION (4 features)
+Table
+#	Fonctionnalité	Source réelle 2026	Faisable HTML ?
+52	Support sourds/malentendants (114)	114 France	✅ Oui
+53	Voix de Femmes — Mariage forcé	Voix de Femmes	✅ Oui
+54	Fédération GAMS — MGF	GAMS France	✅ Oui
+55	Guide ruralité	FNSF Sénat 2025	✅ Oui
